@@ -7,3 +7,5 @@ Additionally, a self-supervised learning module is incorporated to enhance the r
 # Data Availability
 The actual datasets we used can be downloaded from the [data](https://zenodo.org/records/12814320).
 
+# Usage
+`scASDC` is an attention enhanced structural deep clustering method for scRNA-seq cell clustering, and we provide an example of using the scASDC method to perform cell clustering on the Romanov dataset: [run_scASDC](run_scASDC).
